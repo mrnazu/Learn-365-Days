@@ -1,0 +1,30 @@
+# Web App and Network Pen-Testing Questions
+
+Practicing Questions can certainly help you to improve your understanding.
+
+- What is the main purpose of penetration testing?
+    - The main purpose of penetration testing is to simulate a malicious attack on a system, network, or application to identify any vulnerabilities that may exist.
+- How can you recognize and prepare for potential risks that could arise from an environment where penetration testing is conducted?
+    - Establish rules of engagement: Establishing a clear set of rules and expectations prior to beginning a penetration test is essential in order to ensure that everyone involved understands the scope and implications of the testing.
+    - Utilize Access Restrictions: Make sure that access restrictions on all internal systems are in place during and after the penetration testing. This will help to minimize the risks associated with unauthorized access or manipulation.
+    - Use Quality **Tools**: Ensure that only quality tools are used for your penetration testing; any mistakes or negligence could cause serious damages or data breaches.
+    - Properly Document Results: Properly document all results from the penetration test so that you can track progress and address any issues which may arise later on down the road if needed.
+- What techniques and tools should be used when performing a web penetration test?
+    - Using **methodology** and **OWASP** Top 10. for example:Cross-site Scripting (**XSS**) Attack: XSS attacks can be used to inject malicious code into websites in an attempt to extract sensitive information or modify a website’s content and behaviour
+    - SQL Injection: It is a type of attack that allows attackers to insert malicious SQL queries into web applications, allowing them to use the database as an attack vector.
+    - Web Application Firewall Vulnerability Scan: Web application firewalls play an important role in protecting web applications against threats by detecting malicious requests that would otherwise go unnoticed. Filled with signatures for more than 3500 web application vulnerabilities and errors, web application firewalls can identify potential threats and block suspicious requests before they reach the application server layer.
+- What is the difference between vulnerability assessment and penetration testing?
+    - **Vulnerability Assessment** is a process of **identifying**, **classifying** and **evaluating** security vulnerabilities in systems and networks. It involves looking for evidence of existing threats, analyzing potential risks and making **recommendations** for corrective measures to reduce the risk of attack.
+    - **Penetration Testing** is a type of **assessment** that attempts to **exploit** known vulnerabilities in order to provide an indication of the level of security present in a system or network. The intent is to discover potential areas where data can be compromised or service availability impacted
+- Is it possible to successfully attack a URL protected by firewalls or other protective measures?
+    - Yeah, Attackers can use techniques such as social engineering, malware, buffer overflow attacks, and denial of service (DoS) attacks in order to bypass firewalls and gain access to the protected URL. Everything can bypassed attackers can then use various techniques
+- How do reconnaissance, scanning and enumeration fit into a web security audit?
+    - **Reconnaissance**, **scanning** and **enumeration** are all **important** steps in a web security audit or in hacking at all. During the reconnaissance phase, an attacker would collect information about the target website. This could include finding out who owns the domain, what technologies it uses and any public files that may be accessible. Next, they would perform a scan to identify vulnerable services running on the target system. Lastly, performing enumeration involves attempting to gain further knowledge by extracting usernames, software versions or other data from a running service. By performing each of these steps an attacker can gather enough information to develop an attack plan that can potentially be used to compromise the website's security.
+- What are some common logging errors that might prevent an attacker from gaining access to a system or network during a penetration test?
+    - **Invalid logins**: Common errors such as a user entering the wrong username, password or both can prevent an attacker from accessing the system and compromise security.
+    - **Logging gap**: An attacker may exploit any logging gaps inside a network or system to gain access with fewer logs generated for their activities
+    - **Weak Passwords**: Using weak passwords will allow an attacker to guess them with minimal effort and gain access to the system or network they are targeting
+- How can authentication flaws be exploited in order to gain unauthorized access?
+    - Authentication flaws can be exploited in a number of ways in order to gain unauthorized access. Attackers can use a brute force attack, phishing emails, or malware to try and obtain user credentials. They may also exploit vulnerabilities such as weak usign owasp top 10 vulns such as cross-site scripting (XSS), or insecure direct object references (IDOR). By exploiting these flaws and techniques, they can gain access to resources that they shouldn’t have access to. Additionally, attackers can install malicious scripts or backdoors or called RCE, Reverse shell on systems by exploiting authentication flaws. This provides long-term access to sensitive data and systems.
+- Can non-technical methods such as social engineering be used during a pen-test?
+    - Yeah, social engineering can be used during a pen-test. Pen-testers may use social engineering techniques while attempting to gain access to sensitive information or gain access to systems in order to perform further tests. These techniques can often include elements like phishing emails, phone calls, and exploiting social media accounts and etc...
