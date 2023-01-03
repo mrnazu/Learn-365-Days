@@ -25,14 +25,14 @@
  </tr>
  <tr>
   <td>Day 1 </td>
-  <td><a href="https://github.com/mrnazu/learn365/blob/main/Nazu/days/day1.md">Defining what a Pen-Test Is</a></td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day1.md">Defining what a Pen-Test Is</a></td>
  </tr>
   <tr>
   <td>Day 2 </td>
-  <td><a href="https://github.com/mrnazu/learn365/blob/main/Nazu/days/day2.md">Pen-Testing Test Plan</a></td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day2.md">Pen-Testing Test Plan</a></td>
  </tr>
  <td>Day 3 </td>
-  <td><a href="https://github.com/mrnazu/learn365/blob/main/Nazu/days/day3.md">Web App and Network Pen-Testing Interview and Certfication Questions</a></td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day3.md">Web App and Network Pen-Testing Interview and Certfication Questions</a></td>
  </tr>
 </table> </div>
 
