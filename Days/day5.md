@@ -10,16 +10,16 @@
     - Serialization
         - We convert this object into a format that can be easily stored or transmitted. For example, let's say that our example Person's details are as follows:
             
-            `Name = nazu
-            Age = 100
+            `Name = nazu,
+            Age = 100,
             Gender = Male`
             
         - We could serialize this information by converting it into a JSON string as follows `{"name":"nazu","age":100,"gender":"Male"}` This makes it easy to store and transmit our data with minimal overhead.
     - Deserialization
         - Deserialization is the inverse of serialization - converting structured data such as JSON back into an object.
             
-            `Name = nazu
-            Age = 100
+            `Name = nazu,
+            Age = 100,
             Gender = Male`
             
 - Example 3
