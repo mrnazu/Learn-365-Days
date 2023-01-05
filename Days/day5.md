@@ -9,32 +9,31 @@
 - Example 2
     - Serialization
         - We convert this object into a format that can be easily stored or transmitted. For example, let's say that our example Person's details are as follows:
-            
-    `Name = nazu,
-    Age = 100, 
-    Gender = Male`
-            
+`Name = nazu
+ Age = 100
+ Gender = Male`
+ 
         - We could serialize this information by converting it into a JSON string as follows `{"name":"nazu","age":100,"gender":"Male"}` This makes it easy to store and transmit our data with minimal overhead.
     - Deserialization
         - Deserialization is the inverse of serialization - converting structured data such as JSON back into an object.
             
-   `Name = nazu,
-    Age = 100, 
-    Gender = Male`
+`Name = nazu
+ Age = 100
+ Gender = Male`
             
 - Example 3
     - PHP forum uses **PHP Object Serialization** to save a “**Super”** cookie, containing the user’s user ID, role, password hash, and other states:
         
         **Regular User Cookie:**
         
-        -`a:4:{i:0;i:132;i:1;s:7:”nazu”;i:2;s:4:”user”;
+        - `a:4:{i:0;i:132;i:1;s:7:”nazu”;i:2;s:4:”user”;
         i:3;s:32:”b6a8b3bea87fe0e05022f8f3c88bc960";}`
         
         An **attacker** changes the **Serialized** object to give themselves **admin** Privileges:
         
         **Admin’s Super Cookie:**
         
-        -`a:4:{i:0;i:1;i:1;s:5:”attacker”;i:2;s:5:”admin”;
+        - `a:4:{i:0;i:1;i:1;s:5:”attacker”;i:2;s:5:”admin”;
         i:3;s:32:”b6a8b3bea87fe0e05022f8f3c88bc960";}`
 
 # Methodology to Find Insecure De-serialization Vulnerabilities
