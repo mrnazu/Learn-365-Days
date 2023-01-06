@@ -46,4 +46,4 @@
     ```
     
 
-[Ultimate nuclei Guide](https://blog.projectdiscovery.io/ultimate-nuclei-guide/)
+[Ultimate nuclei Guide](https://blog.projectdiscovery.io/ultimate-nuclei-guide/) and you can learn more about by using the help flag/\
