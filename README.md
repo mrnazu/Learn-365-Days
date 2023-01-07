@@ -46,5 +46,9 @@
   <td>Day 6 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day6.md">Finding Bugs With Nuclei</a></td>
  </tr>
+  <tr>
+  <td>Day 7 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day7.md">Open Redirect</a></td>
+ </tr>
 </table> </div>
 
