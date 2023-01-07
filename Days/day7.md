@@ -1,6 +1,6 @@
 # **Open Redirect**
 
-An open redirect is an endpoint on a vulnerable website, Open redirect are employed when a web page takes an invalidated user-submitted parameter and uses it to redirect the user to another URL or Domain. Generally, this URL is submitted via **GET** or **POST** requests from the browser address bar or as a part of a form submission.
+An open redirect is an endpoint on a vulnerable website, or Open redirect are when a web page takes an invalidated user-submitted parameter and uses it to redirect the user to another URL or Domain. Generally, this URL is submitted via **GET** or **POST** requests from the browser address bar or as a part of a form submission.
 
 # Types of Open Redirect
 
