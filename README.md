@@ -50,5 +50,9 @@
   <td>Day 7 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day7.md">Open Redirect</a></td>
  </tr>
+  <tr>
+  <td>Day 8 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day8.md">Holiday</a></td>
+ </tr>
 </table> </div>
 
