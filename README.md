@@ -54,5 +54,9 @@
   <td>Day 8 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day8.md">Holiday</a></td>
  </tr>
+  <tr>
+  <td>Day 9 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day9.md">SSRF in Short</a></td>
+ </tr>
 </table> </div>
 
