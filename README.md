@@ -62,5 +62,9 @@
   <td>Day 10 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day10.md">API</a></td>
  </tr>
+    <tr>
+  <td>Day 11 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day11.md">API Reconnaissance</a></td>
+ </tr>
 </table> </div>
 
