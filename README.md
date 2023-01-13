@@ -66,9 +66,13 @@
   <td>Day 11 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day11.md">API Reconnaissance</a></td>
  </tr>
-     <tr>
+    <tr>
   <td>Day 12 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day12.md">Reverse Engineering an API</a></td>
+ </tr>
+   <tr>
+  <td>Day 13 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day13.md">Information disclosure</a></td>
  </tr>
 </table> </div>
 
