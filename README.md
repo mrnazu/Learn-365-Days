@@ -74,5 +74,9 @@
   <td>Day 13 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day13.md">Information disclosure</a></td>
  </tr>
+   <tr>
+  <td>Day 14 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day14.md">API Security Misconfiguration</a></td>
+ </tr>
 </table> </div>
 
