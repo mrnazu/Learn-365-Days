@@ -78,5 +78,9 @@
   <td>Day 14 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day14.md">API Security Misconfiguration</a></td>
  </tr>
+    <tr>
+  <td>Day 15 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day15.md">API Broken Object Level Authorization</a></td>
+ </tr>
 </table> </div>
 
