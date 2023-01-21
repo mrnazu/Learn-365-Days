@@ -82,5 +82,25 @@
   <td>Day 15 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day15.md">API Broken Object Level Authorization</a></td>
  </tr>
+   <tr>
+  <td>Day 16 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day16.md">URL Encoding</a></td>
+ </tr>
+    <tr>
+  <td>Day 17 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day17.md">HTTP Parameter Pollution</a></td>
+ </tr>
+     <tr>
+  <td>Day 18 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day18.md">reading blogs and books</a></td>
+ </tr>
+      <tr>
+  <td>Day 19 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day19.md">doing certfication exams</a></td>
+ </tr>
+       <tr>
+  <td>Day 20 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day20.md">solving alx task's</a></td>
+ </tr>
 </table> </div>
 
