@@ -102,5 +102,9 @@
   <td>Day 20 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day20.md">solving alx task's</a></td>
  </tr>
+   <tr>
+  <td>Day 21 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day21.md">writing medium article based on Albert Einstein speech</a></td>
+ </tr>
 </table> </div>
 
