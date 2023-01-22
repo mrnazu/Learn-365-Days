@@ -106,5 +106,9 @@
   <td>Day 21 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day21.md">writing medium article based on Albert Einstein speech</a></td>
  </tr>
+    <tr>
+  <td>Day 22 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day22.md">Firewall Article</a></td>
+ </tr>
 </table> </div>
 
