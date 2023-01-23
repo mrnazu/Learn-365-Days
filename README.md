@@ -110,5 +110,9 @@
   <td>Day 22 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day22.md">Firewall Article</a></td>
  </tr>
+     <tr>
+  <td>Day 23 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day23.md">JWT Article</a></td>
+ </tr>
 </table> </div>
 
