@@ -118,5 +118,9 @@
   <td>Day 24 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day24.md">CORS</a></td>
  </tr>
+       <tr>
+  <td>Day 25 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day25.md">Reading Blogs on Web Security</a></td>
+ </tr>
 </table> </div>
 
