@@ -122,5 +122,9 @@
   <td>Day 25 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day25.md">Reading Blogs on Web Security</a></td>
  </tr>
+        <tr>
+  <td>Day 26 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day26.md">TakeOver</a></td>
+ </tr>
 </table> </div>
 
