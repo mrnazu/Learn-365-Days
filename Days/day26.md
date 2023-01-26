@@ -36,8 +36,7 @@ Tags: TakeOver, subdomain
         
         **but there is nothing intersting thing😢**
         
-        ![source code.jpg](TakeOver%20e6a7eafa779f414698ef9e8e047b68b1/source_code.jpg)
-        
+        ![source code](https://user-images.githubusercontent.com/108541991/214885004-6b004f59-dd8e-4ee0-acef-96665dcfb7f5.jpg)
     
     **Let's go ahead and enumerate a subdomain using knockpy(my fav sub-domain scanner tools ever!)** 
     
@@ -59,21 +58,23 @@ Tags: TakeOver, subdomain
     
     **portal.futurevera.thm:**
     
-    ![portal.jpg](Resources/TakeOver%20e6a7eafa779f414698ef9e8e047b68b1/portal.jpg)
+    ![portal](https://user-images.githubusercontent.com/108541991/214885173-a3768137-57a6-4720-955b-77fe2815ea29.jpg)
+
     
     **blog.futurevera.thm:**
     
-    ![blog.jpg](Resources/TakeOver%20e6a7eafa779f414698ef9e8e047b68b1/blog.jpg)
+    ![blog](https://user-images.githubusercontent.com/108541991/214885264-65984691-8458-44f4-ad1d-b9ad80fd7ffc.jpg)
+
     
     **support.futurevera.thm: seems intersting🙂😃**
     
-    ![screen shot](Resources/TakeOver%20e6a7eafa779f414698ef9e8e047b68b1/support.jpg)
-    
-    screen shot
-    
+    ![support](https://user-images.githubusercontent.com/108541991/214885387-20925164-55d4-4d9a-aa46-7eb3e7b3f4a0.jpg)
+
+  
     **we found another domain on the certficate | add to /etc/hosts then boom💣💣**
+    ![dom-dom](https://user-images.githubusercontent.com/108541991/214885493-0c21f8ed-ca3b-4dde-bafd-8d900bd2f2b7.jpg)
+
     
-    ![dom-dom.jpg](Resources/sTakeOver%20e6a7eafa779f414698ef9e8e047b68b1/dom-dom.jpg)
     
 
 # Flag ⇒ `flag{beea0d6edfcee06a59b83fb50ae81b2f}`
