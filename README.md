@@ -126,5 +126,9 @@
   <td>Day 26 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day26.md">TakeOver</a></td>
  </tr>
+        <tr>
+  <td>Day 27 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day27.md">VulnNet</a></td>
+ </tr>
 </table> </div>
 
