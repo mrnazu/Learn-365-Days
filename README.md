@@ -134,5 +134,9 @@
   <td>Day 28 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day28.md">Building 4 Month Web Penetration Testing Study Curriculum</a></td>
  </tr>
+         <tr>
+  <td>Day 29 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day29.md">Creating Flowcharts</a></td>
+ </tr>
 </table> </div>
 
