@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to the 365 Day Challenge!</h1>
 <hr>
-<img src="https://user-images.githubusercontent.com/108541991/215359789-6896af43-303a-488f-9ffd-0380ea63a796.png">
+<img align="justify" src="https://user-images.githubusercontent.com/108541991/215359789-6896af43-303a-488f-9ffd-0380ea63a796.png">
 
 <div align="center">
 <table>
