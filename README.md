@@ -139,7 +139,17 @@
   <td>Day 29 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day29.md">Creating Flowcharts</a></td>
  </tr>
+          <tr>
+  <td>Day 30 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day30.md">ALX linked List</a></td>
+ </tr>
 </table> </div>
+
+
+
+
+
+
 
 <hr>
 <div align="center">
