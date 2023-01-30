@@ -145,5 +145,17 @@
 <div align="center">
 <h1> 3-4 Month Web Penetration Testing Study Curriculum(WPTC)</h1>
 <img src="https://user-images.githubusercontent.com/108541991/215381087-531b240d-59c4-43fb-b2dd-9094501f6469.png"</div>
-<hr>
+
+<div align="center"> <br>
+<table>
+ <tr>
+  <td>Day</td>
+  <td>Topic</td>
+ </tr>
+ <tr>
+  <td>Day 0 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day1.md">0</a></td>
+ </tr>
+ </table> </div>
+
 
