@@ -141,3 +141,9 @@
  </tr>
 </table> </div>
 
+<hr>
+<div align="center">
+<h1> 3-4 Month Web Penetration Testing Study Curriculum(WPTC)</h1>
+<img src="https://user-images.githubusercontent.com/108541991/215381087-531b240d-59c4-43fb-b2dd-9094501f6469.png"</div>
+<hr>
+
