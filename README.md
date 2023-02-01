@@ -143,6 +143,10 @@
   <td>Day 30 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day30.md">ALX linked List</a></td>
  </tr>
+          <tr>
+  <td>Day 31 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day31.md">Rest</a></td>
+ </tr>
 </table> </div>
 
 
