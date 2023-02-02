@@ -8,9 +8,9 @@
 
 ---
 
-- To Explain this URL [`**https://nazu.com/test/file.php?id=12#](http://www.hackxpert.com/test/test.php?id=1245#nsksjhd)about**`
+- To Explain this URL `**https://nazu.com/test/file.php?id=12#about**`
     - Protocol (**HTTP**) This is the protocol used for communication between the web server and the browser. In this case, it is Hypertext Transfer Protocol (HTTP)
-    - Host Name ([`**nazu.com**`](http://www.hackxpert.com/)) The host name is the domain name and it identifies where a website is hosted on the Internet. It is like an IP address, but easier to remember for humans.
+    - Host Name ([`**nazu.com**`]) The host name is the domain name and it identifies where a website is hosted on the Internet. It is like an IP address, but easier to remember for humans.
     - Path (**`/test/file.php`**) This part of a URL refers to a specific page or resource on a web server. In this case, it resolves to "/test/file.php", meaning that the browser requests a web file named "file.php" from a folder called "test".
     - Query Parameters (**`?id=12`**) A query parameter is additional information added to a URL after a question mark (**`?`**). It's usually used in dynamic websites to perform specific tasks, such as loading different versions of a page or sending search queries to websites. In this example, the query parameter passes an ID number - 12 - into the document being requested on the server.
     - Anchor Text (**`#about`**) The anchor text part of a URL comes after an #, and often holds information about which section of a web page should be brought into focus when it loads in your browser window from the web server (such as headers, images or text). In this example "**#about**" could signify that when requested, it brings with it additional information related to "about page or something".
