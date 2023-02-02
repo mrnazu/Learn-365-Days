@@ -170,6 +170,10 @@
   <td>Day 32 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/HTTP%20Starting%20Point/day32.md">HTTP Starting Point</a></td>
  </tr>
+  <tr>
+  <td>Day 33 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/URL%20Starting%20Point/day33.md">URL Starting Point</a></td>
+ </tr>
  </table> </div>
 
 
