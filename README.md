@@ -178,6 +178,10 @@
   <td>Day 34 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/Request%20%26%20Response%20Starting%20Point/day34.md">Request & Response Starting Point</a></td>
  </tr>
+   <tr>
+  <td>Day 35 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/Media%20Type%20/day35.md">Media Type - MIME Starting Point</a></td>
+ </tr>
  </table> </div>
 
 
