@@ -182,6 +182,10 @@
   <td>Day 35 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/Media%20Type%20/day35.md">Media Type - MIME Starting Point</a></td>
  </tr>
+    <tr>
+  <td>Day 36 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/Domain%20%26%20Sub-Domain/day36.md">Domain & Sub-Domain Starting Point</a></td>
+ </tr>
  </table> </div>
 
 
