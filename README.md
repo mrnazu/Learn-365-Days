@@ -206,6 +206,22 @@
   <td>Day 41 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day41.md">OAuth Access Token Starting Point</a></td>
  </tr>
+    <tr>
+  <td>Day 42 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day42.md">Reading Blogs 1</a></td>
+ </tr>
+    <tr>
+  <td>Day 43 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day43.md">Reading Blogs 2</a></td>
+ </tr>
+     <tr>
+  <td>Day 44 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day44.md">Reading Blogs 3</a></td>
+ </tr>
+     <tr>
+  <td>Day 45 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day45.md">Reading Blogs 4</a></td>
+ </tr>
  </table> </div>
 
 
