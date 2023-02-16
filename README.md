@@ -226,6 +226,10 @@
   <td>Day 46 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day46.md">Reading Blogs 5</a></td>
  </tr>
+     <tr>
+  <td>Day 47 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day47.md">Reading Blogs 6</a></td>
+ </tr>
  </table> </div>
 
 
