@@ -235,6 +235,10 @@
   <td>Day 48 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/Refresh%20Token/day48.md">Refresh Token Starting Point</a></td>
  </tr>
+    <tr>
+  <td>Day 49 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/Refresh%20Token/day49.md">Reading Blogs 7</a></td>
+ </tr>
  </table> </div>
 
 
