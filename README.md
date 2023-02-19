@@ -160,9 +160,10 @@
 <h1> 3-4 Month Web Penetration Testing Study Curriculum(WPTC)</h1>
 <img src="https://user-images.githubusercontent.com/108541991/215381087-531b240d-59c4-43fb-b2dd-9094501f6469.png"</div>
 
+<div align="center"><h1>Chapter 1 - Starting Point</h1></div>
 <div align="center"> <br>
-<h1>Chapter 1 - Starting Point</h1>
 <table>
+<tr>
   <td>Day</td>
   <td>Topic</td>
  </tr>
