@@ -161,7 +161,7 @@
 <img src="https://user-images.githubusercontent.com/108541991/215381087-531b240d-59c4-43fb-b2dd-9094501f6469.png"</div>
 
 <div align="center"> <br>
-<h1>Chapter 1 - Starting Point</h1> <br>
+<h1>Chapter 1 - Starting Point</h1>
 <table>
  <tr>
   <td>Day</td>
