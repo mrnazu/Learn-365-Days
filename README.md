@@ -239,6 +239,10 @@
   <td>Day 49 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day49.md">Reading Blogs 7</a></td>
  </tr>
+  <tr>
+  <td>Day 50 </td>
+  <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day50.md">AuthN & AuthZ Starting Point</a></td>
+ </tr>
  </table> </div>
 
 
