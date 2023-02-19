@@ -163,7 +163,6 @@
 <div align="center"> <br>
 <h1>Chapter 1 - Starting Point</h1>
 <table>
- <tr>
   <td>Day</td>
   <td>Topic</td>
  </tr>
