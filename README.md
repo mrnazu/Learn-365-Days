@@ -168,7 +168,7 @@
 <img src="https://user-images.githubusercontent.com/108541991/215381087-531b240d-59c4-43fb-b2dd-9094501f6469.png"</div>
 
 <div align="center"> <br>
-<h1>Chapter 1 - Starting Point</h1>
+<h1>Chapter 1 Starting Point</h1>
 <br>
 <table>
 <tr>
@@ -253,5 +253,15 @@
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day50.md">AuthN & AuthZ Starting Point</a></td>
  </tr>
  </table> </div>
+ 
 
 
+<div align="center">
+<h1>Chapter 2 Basic Concepts</h1>
+<table>
+<tr>
+<td>Day 51 </td>
+<td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day51.md">Sessions & Cookies</a></td>
+</tr>
+</table> 
+</div>
