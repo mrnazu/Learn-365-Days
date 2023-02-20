@@ -155,17 +155,26 @@
 
 
 
+
+
+
+
+
+
+
 <hr>
 <div align="center">
 <h1> 3-4 Month Web Penetration Testing Study Curriculum(WPTC)</h1>
 <img src="https://user-images.githubusercontent.com/108541991/215381087-531b240d-59c4-43fb-b2dd-9094501f6469.png"</div>
 
 <div align="center"> <br>
+<h1>Chapter 1 - Starting Point</h1>
+<br>
 <table>
- <tr>
-  <td>Day</td>
-  <td>Topic</td>
- </tr>
+<tr>
+<td>Day</td>
+<td>Topic</td>
+</tr>
  <tr>
   <td>Day 32 </td>
   <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/HTTP%20Starting%20Point/day32.md">HTTP Starting Point</a></td>
