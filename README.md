@@ -263,5 +263,9 @@
 <td>Day 51 </td>
 <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day51.md">Sessions & Cookies</a></td>
 </tr>
+<tr>
+<td>Day 52 </td>
+<td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/Application-level%20Security/day52.md">Application-level Security</a></td>
+</tr>
 </table> 
 </div>
