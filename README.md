@@ -271,5 +271,9 @@
 <td>Day 53 </td>
 <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day53.md">Content Security Policy(CSP)</a></td>
 </tr>
+<tr>
+<td>Day 54 </td>
+<td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day54.md">JWT</a></td>
+</tr>
 </table> 
 </div>
