@@ -279,5 +279,9 @@
 <td>Day 55 </td>
 <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day55.md">User-Input</a></td>
 </tr>
+<tr>
+<td>Day 56 </td>
+<td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day56.md">Practical Ways to Secure Authentication</a></td>
+</tr>
 </table> 
 </div>
