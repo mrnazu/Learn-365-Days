@@ -283,5 +283,9 @@
 <td>Day 56 </td>
 <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day56.md">Practical Ways to Secure Authentication</a></td>
 </tr>
+<tr>
+<td>Day 57 </td>
+<td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/SAML%20%26%20SSO/day57.md">SAML & SSO</a></td>
+</tr>
 </table> 
 </div>
