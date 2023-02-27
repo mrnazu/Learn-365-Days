@@ -287,5 +287,9 @@
 <td>Day 57 </td>
 <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/SAML%20%26%20SSO/day57.md">SAML & SSO</a></td>
 </tr>
+<tr>
+<td>Day 58 </td>
+<td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day58.md">Fuzzing</a></td>
+</tr>
 </table> 
 </div>
