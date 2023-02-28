@@ -291,5 +291,9 @@
 <td>Day 58 </td>
 <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day58.md">Fuzzing</a></td>
 </tr>
+<tr>
+<td>Day 59 </td>
+<td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day59.md">WAF</a></td>
+</tr>
 </table> 
 </div>
