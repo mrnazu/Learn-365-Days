@@ -295,5 +295,9 @@
 <td>Day 59 </td>
 <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day59.md">WAF</a></td>
 </tr>
+<tr>
+<td>Day 60 </td>
+<td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day60.md">Reading Blog</a></td>
+</tr>
 </table> 
 </div>
