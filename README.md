@@ -320,5 +320,9 @@
 <td>Day 61 </td>
 <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/BAC/day61.md">BAC 1</a></td>
 </tr>
+<tr>
+<td>Day 62 </td>
+<td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/BAC/day62.md">BAC Blog 1</a></td>
+</tr>
 </table> 
 </div>
