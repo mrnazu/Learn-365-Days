@@ -328,5 +328,9 @@
 <td>Day 63 </td>
 <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day63.md">Free 1</a></td>
 </tr>
+<tr>
+<td>Day 64 </td>
+<td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day64.md">Free 1</a></td>
+</tr>
 </table> 
 </div>
