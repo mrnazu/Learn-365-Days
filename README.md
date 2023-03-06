@@ -330,7 +330,11 @@
 </tr>
 <tr>
 <td>Day 64 </td>
-<td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day64.md">Free 1</a></td>
+<td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day64.md">Free 2</a></td>
+</tr>
+<tr>
+<td>Day 65 </td>
+<td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day65.md">Free 3</a></td>
 </tr>
 </table> 
 </div>
