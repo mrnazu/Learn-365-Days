@@ -1,4 +1,4 @@
-# How to Find Access Control Vulnerabilities?
+# BAC 3| How to Find Access Control Vulnerabilities?
 
 Access control vulnerabilities are among the most common and dangerous security flaws in web apps. These vulnerabilities can allow attackers to gain unauthorized access to sensitive data or perform other malicious actions. Here are some ways to find access control vulnerabilities:
 
