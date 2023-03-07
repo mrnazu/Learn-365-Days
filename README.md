@@ -336,5 +336,9 @@
 <td>Day 65 </td>
 <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/day65.md">Free 3</a></td>
 </tr>
+<tr>
+<td>Day 66 </td>
+<td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/BAC/day66.md">BAC 2</a></td>
+</tr>
 </table> 
 </div>
