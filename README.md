@@ -340,5 +340,9 @@
 <td>Day 66 </td>
 <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/BAC/day66.md">BAC 2</a></td>
 </tr>
+<tr>
+<td>Day 67 </td>
+<td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/BAC/day67.md">BAC Lab 1</a></td>
+</tr>
 </table> 
 </div>
