@@ -356,5 +356,9 @@
 <td>Day 70 </td>
 <td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/BAC/day70.md">BAC Lab 4</a></td>
 </tr>
+<tr>
+<td>Day 71 </td>
+<td><a href="https://github.com/mrnazu/Learn-365-Days/blob/main/Days/BAC/day71.md">BAC Lab 5</a></td>
+</tr>
 </table> 
 </div>
